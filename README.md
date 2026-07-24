@@ -87,6 +87,9 @@ As Contribuições estão listadas abaixo com base nos membros listados e em pla
 
 ## Link do vídeo 📽️
 
+[Link do youtube](https://youtu.be/fcm4PDgsdTo)
+[Link do drive](https://drive.google.com/file/d/1j7IEGGZM6tQkkca3WW9w0zHPu6n2q2Vn/view?usp=sharing)
+
 ## Declaração de uso de IA 📄
 
 Em conformidade com as diretrizes acadêmicas/de conduta, declaramos o uso das seguintes ferramentas de IA durante o desenvolvimento deste trabalho:
