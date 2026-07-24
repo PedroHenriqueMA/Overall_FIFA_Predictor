@@ -9,7 +9,9 @@
 ##  Integrantes
 
 **Pedro Henrique Moura Andrade**   - https://github.com/PedroHenriqueMA
+
 **Ian Marcel Santos Santana**      - https://github.com/IanMS-0803
+
 **Luis Gustavo Santos**            - https://github.com/luisGsts
 
 --- 
@@ -17,8 +19,11 @@
 ##  Fonte dos Dados
 
 Os dados utilizados neste projeto foram obtidos a partir de:
+
 **Fonte       :** Kaggle datasets
+
 **Link        :** https://www.kaggle.com/datasets/stefanoleone992/fifa-22-complete-player-dataset
+
 **Descrição   :** O conjunto de dados contém métricas com base em estatísticas de jogadores de futebol.
 
 ---
@@ -33,7 +38,9 @@ Os dados utilizados neste projeto foram obtidos a partir de:
 
 
 ├── dataset/female                                   # Conjuntos de dados 
+
 ├── Trabalho_Final_Fundamento_IA.ipynb/              # Jupyter Notebook/Colab com código e análises
+
 ├── README.md                                        # Documentação principal do projeto
 
 
@@ -51,6 +58,7 @@ Ou
 
 2. **Passo a Passo Manual:**
 Baixe o arquivo `.ipynb`.
+
 Acesse o [Google Colab](https://colab.research.google.com/).
 Vá em **Arquivo** > **Fazer upload do notebook** e selecione o arquivo baixado.
 Certifique-se de executar as primeiras células para instalar dependências e carregar a base de dados.
@@ -63,10 +71,13 @@ Certifique-se de executar as primeiras células para instalar dependências e ca
 
 Durante o desenvolvimento, foram avaliados e comparados os seguintes modelos de Machine Learning:
 
-**Regressão Linear:** Utilizado para estabelecer uma métrica inicial de comparação.
-**Baseline:** Utilizado para estabelecer uma métrica inicial de comparação.
-**Random Forest:** Aplicado devido à sua robustez no tratamento de dados não lineares.
-**Arvore de decisão:** Modelo principal focado em maximizar o desempenho e métricas de avaliação.
+**Regressão Linear** 
+
+**Baseline** 
+
+**Random Forest** 
+
+**Arvore de decisão**
 
 ---
 
@@ -89,10 +100,11 @@ Resumo do desempenho dos modelos e das descobertas do projeto:
 
 ##  Divisão das Contribuições
 
-**Pedro Henrique Moura Andrade:** Compreensão dos dados, Pré-Processamento, Separação, Análise Exploratória, treinamento Baseline (Modelo de Comparação) e Árvore de Decisão para Regressão.
+**Pedro Henrique Moura Andrade:** Compreensão dos dados, Pré-Processamento, Separação, Análise Exploratória, treinamento Baseline (Modelo de Comparação) e Árvore de Decisão para Regressão;
 
-**Ian Marcel Santos Santana:** Treinamento do random forest e avaliação do modelo.
-**Luis Gustavo Santos:** Treinamento do modelo de regressão linear e avaliação do modelo e documentação do README .
+**Ian Marcel Santos Santana:** Treinamento do random forest e avaliação do modelo;
+
+**Luis Gustavo Santos:** Treinamento do modelo de regressão linear e avaliação do modelo e documentação do README.
          
 ---
 
@@ -109,5 +121,5 @@ Assista ao nosso vídeo explicativo do projeto onde apresentamos a metodologia, 
 Em conformidade com as diretrizes acadêmicas/de conduta, declaramos o uso das seguintes ferramentas de IA durante o desenvolvimento deste trabalho:
 
 **ChatGPT/ Gemini:** Utilizada para auxílio no refinamento do código do notebook, depuração de erros de sintaxe e estruturação do texto de documentação.
+
 *Nota:* Toda a lógica do problema, validação dos resultados e interpretação das análises foram revisadas e validadas pela equipe de integrantes de maneira manual.
-# Overall_FIFA_Predictor
